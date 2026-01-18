@@ -1,22 +1,22 @@
 # JavaScript Color Flipper
 
-Modern, minimalist ve kullanıcı dostu bir arka plan rengi oluşturucu. Glassmorphism tasarımı ve akıllı renk yönetimi ile geliştirilmiştir.
+A modern, minimalist, and user-friendly background color generator. Built with glassmorphism design and intelligent color management.
 
-## ✨ Özellikler
+## ✨ Features
 
-- **Rastgele HEX Üretimi:** Milyonlarca renk arasından benzersiz HEX kodları oluşturur.
-- **Otomatik Döngü:** Her 10 saniyede bir rengi otomatik olarak değiştirir (Timer).
-- **Akıllı Kontrast:** Arka plan renginin parlaklığına göre metin renklerini (siyah/beyaz) otomatik ayarlar.
-- **Kopyalama Desteği:** Tek tıkla HEX kodunu panoya kopyalar ve görsel bildirim verir.
-- **Modern Tasarım:** Glassmorphism ve akıcı animasyonlar ile premium UI deneyimi sağlar.
+- **Random HEX Generation:** Create unique HEX codes from millions of colors.
+- **Automatic Loop:** Automatically changes the background color every 10 seconds (with a timer).
+- **Smart Contrast:** Automatically adjusts text color (black/white) based on the background brightness.
+- **Copy Support:** Copy the HEX code to the clipboard with a single click and receive visual feedback.
+- **Modern Design:** Provides a premium UI experience with glassmorphism and smooth animations.
 
-## 🚀 Teknolojiler
+## 🚀 Technologies
 
 - Vanilla JavaScript
 - Modern CSS (Flexbox, Glassmorphism, Animations)
 - HTML5 Semantic Tags
 - FontAwesome Icons
 
-## 🛠️ Kurulum
+## 🛠️ Installation
 
-Herhangi bir kurulum gerektirmez. `index.html` dosyasını tarayıcınızda açarak hemen kullanmaya başlayabilirsiniz.
+No setup required. Simply open the `index.html` file in your browser to start using it.
